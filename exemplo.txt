@@ -1,0 +1,15 @@
+Objetivo:
+
+Criar uma API Restfull para controle de produtos
+
+Modelo:
+    Produtos: id, nome, quantidade, valor, observacao
+
+Repositorio de produto:(Metodos para um CRUD)
+    metodos: obterTodos, obterPorId, adicionar, atualizar, deletar.
+
+Serviço de produto:
+    metodos: obterTodos, obterPorId, adicionar, atualizar, deletar.
+
+Controller de produto:
+    metodos: obterTodos, obterPorId, adicionar, atualizar, deletar.
